@@ -1,4 +1,4 @@
-[Imgur](http://i.imgur.com/JQqA3TQ.png)
+![alt tag](http://i.imgur.com/JQqA3TQ.png)
 # RIM WARS: THE CLONE WARS
 ###### Rim Wars: The Clone Wars is a modification for the moderatley-popular game known as Rimworld. This mod will attempt to immersify you into the Star-Wars universe by providing new animals, weapons, armours, and even more if it is in our power. Along with that, we are taking community suggestions for things to add.
 
